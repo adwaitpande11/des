@@ -1,0 +1,24 @@
+<chart>
+
+   <chart_label prefix='' 
+                decimals='1' 
+                decimal_char='.'
+                separator=''
+                position='middle'
+                hide_zero='false' 
+                font='arial' 
+                bold='true' 
+                size='10' 
+                color='FFFFFF' 
+                alpha='90'
+                />
+   <chart_data>
+      <row>
+         <null/><string>Jul 2014</string><string>Aug 2014</string><string>Sep 2014</string><string>Oct 2014</string><string>Nov 2014</string><string>Dec 2014</string><string>Jan 2015</string><string>Feb 2015</string><string>Mar 2015</string><string>Apr 2015</string><string>May 2015</string><string>Jun 2015</string><string>Jul 2015</string><string>Aug 2015</string><string>Sep 2015</string><string>Oct 2015</string><string>Nov 2015</string><string>Dec 2015</string><string>Jan 2016</string><string>Feb 2016</string><string>Mar 2016</string><string>Apr 2016</string><string>May 2016</string><string>Jun 2016</string><string>Jul 2016</string><string>Aug 2016</string><string>Sep 2016</string><string>Oct 2016</string><string>Nov 2016</string><string>Dec 2016</string><string>Nov 2017</string><string>Dec 2017</string><string>Jan 2018</string></row>
+      <row>
+         <string>Expense</string><number label='8963'>8963</number><number label='17067'>17067</number><number label='29418'>29418</number><number label='15251'>15251</number><number label='25027'>25027</number><number label='17000'>17000</number><number label='24601'>24601</number><number label='52452'>52452</number><number label='25935'>25935</number><number label='19393'>19393</number><number label='18238'>18238</number><number label='15044'>15044</number><number label='45675'>45675</number><number label='43169'>43169</number><number label='26724'>26724</number><number label='36612'>36612</number><number label='34147'>34147</number><number label='13797'>13797</number><number label='57451'>57451</number><number label='19901'>19901</number><number label='30314'>30314</number><number label='19537'>19537</number><number label='23207'>23207</number><number label='11179'>11179</number><number label='14048'>14048</number><number label='60472'>60472</number><number label='37838'>37838</number><number label='27510'>27510</number><number label='50566'>50566</number><number label='3312'>3312</number><number label='12131'>12131</number><number label='109337'>109337</number><number label='31286'>31286</number></row>
+      <row>
+         <string>Earning</string><number label='9112'>9112</number><number label='20177'>20177</number><number label='19083'>19083</number><number label='22141'>22141</number><number label='24960'>24960</number><number label='20110'>20110</number><number label='24655'>24655</number><number label='52309'>52309</number><number label='30072'>30072</number><number label='31328'>31328</number><number label='26542'>26542</number><number label='23542'>23542</number><number label='39997'>39997</number><number label='25806'>25806</number><number label='69746'>69746</number><number label='23542'>23542</number><number label='26268'>26268</number><number label='23565'>23565</number><number label='41571'>41571</number><number label='23691'>23691</number><number label='52552'>52552</number><number label='25431'>25431</number><number label='23542'>23542</number><number label='23542'>23542</number><number label='23711'>23711</number><number label='63779'>63779</number><number label='27090'>27090</number><number label='41640'>41640</number><number label='27361'>27361</number><number label='22718'>22718</number><number label=''></number><number label='61349'>61349</number><number label='48546'>48546</number>      </row>
+   </chart_data>
+   
+</chart>

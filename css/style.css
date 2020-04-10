@@ -1,0 +1,32 @@
+/* CSS Document */
+
+input, select, textarea
+{
+	background-color:rgba(51,204,204,1);
+	border: 0.5vw solid #999999;
+	font-size:4vw;
+}
+
+body *{font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+font-size:4vw;}
+
+a{text-decoration:none; /*color:inherit*/}
+
+table tr td{padding: 3vw}
+
+
+.date_day{width:22%}
+.date_month{width:45%}
+.date_year{width:30%}
+
+tr>th{background-color:rgba(153,153,153,1); white-space: nowrap;}
+
+.footers{background-color:rgba(180,180,180,1)}
+
+button{width:100%}
+
+.mainMenu div:hover{background-color:rgba(0,0,0,1);}
+.mainMenu div{border-right:0.5vw solid #FFF; padding:1vw 4vw; float:left}
+.mainMenu a{color:rgba(255, 255, 255, 1);}
+
+#container{clear:both;}

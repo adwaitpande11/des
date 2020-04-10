@@ -1,0 +1,39 @@
+<chart>
+
+   <chart_label prefix='' 
+                decimals='1' 
+                decimal_char='.'
+                separator=''
+                position='middle'
+                hide_zero='false' 
+                font='arial' 
+                bold='true' 
+                size='10' 
+                color='FFFFFF' 
+                alpha='90'
+                />
+   <chart_data>
+      <row>
+         <null/>
+         <string>Jul 2014</string>
+         <string>Aug 2014</string>
+         <string>Sept 2014</string>
+         <string>Oct 2014</string>
+      </row>
+      <row>
+         <string>Earning</string>   
+         <number label='9112'>9112</number>
+         <number label='20177'>20177</number>
+         <number label='19083'>19083</number>
+         <number label='22141'>22141</number>
+      </row>
+      <row>
+         <string>Expense</string>
+         <number label='8963'>8963</number>
+         <number label='17067'>17067</number>
+         <number label='29418'>29418</number>
+         <number label='11110'>11110</number>
+      </row>
+   </chart_data>
+   
+</chart>
