@@ -2,6 +2,7 @@
 
 if [ -f "composer.phar" ]
 then
+    echo "Removing existing installation"
     rm -f composer.phar
 fi
 
