@@ -1,5 +1,5 @@
 <?php
-require_once 'classes/PHPExcel.php';
+require_once __DIR__ . "/../vendor/autoload.php";
 include("includes/functions.inc.php");
 function SQLToExcel($output_file_name, $mysql_connection_variable, $mysql_query, $sheet_name = false)
 {
