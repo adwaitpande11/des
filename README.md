@@ -15,4 +15,5 @@ I assume that you already have PHP, Apache server and MySQL installed.
 
 > Default username an password (as can be seen from `adw_user` table) is - admin | pass
 
+## Troubleshooting
 For additional help, `NOTES.md` may be useful
